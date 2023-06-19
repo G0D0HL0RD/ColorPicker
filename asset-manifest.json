@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/ColorPicker/static/css/main.c8c8dec2.css",
+    "main.js": "/ColorPicker/static/js/main.111700f3.js",
+    "index.html": "/ColorPicker/index.html",
+    "main.c8c8dec2.css.map": "/ColorPicker/static/css/main.c8c8dec2.css.map",
+    "main.111700f3.js.map": "/ColorPicker/static/js/main.111700f3.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c8c8dec2.css",
+    "static/js/main.111700f3.js"
+  ]
+}
